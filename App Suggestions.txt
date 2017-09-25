@@ -5,3 +5,7 @@ Feel free to add any app ideas you have on here for our term project.
 1. 'Jarvis' App - use a bunch of APIs to inform user of weather, calendar items, news, trending hashtags etc, based on location and time.
 
 2, Recipe App - takes a list of ingredients that you have and tells you any appropriate recipes you can make. Includes nutritional information.
+
+3. Financial App - dynamically budget according to current spending trends and needs? link to bank account and debit card?
+
+4. Fitness app - Not sure yet
