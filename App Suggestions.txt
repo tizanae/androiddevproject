@@ -9,3 +9,5 @@ Feel free to add any app ideas you have on here for our term project.
 3. Financial App - dynamically budget according to current spending trends and needs? link to bank account and debit card?
 
 4. Fitness app - Not sure yet
+
+5. Bowling app - access to scores, lane information, balls, score and pin tracking, etc
