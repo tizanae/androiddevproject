@@ -11,3 +11,7 @@ Feel free to add any app ideas you have on here for our term project.
 4. Fitness app - Not sure yet
 
 5. Bowling app - access to scores, lane information, balls, score and pin tracking, etc
+
+6. Meal Prepping - Determine recipes and meals based on nutritional needs and health information. Also includes option to plan for families.
+
+7. Social buzz - use social media APIs to suggest restaurants, activities, night life spots based on location and time. e.g. check facebook, twitter and foursquare #hastags for location you're in within a certain range of time and make suggestions from most to least popular.
