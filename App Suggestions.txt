@@ -15,3 +15,7 @@ Feel free to add any app ideas you have on here for our term project.
 6. Meal Prepping - Determine recipes and meals based on nutritional needs and health information. Also includes option to plan for families.
 
 7. Social buzz - use social media APIs to suggest restaurants, activities, night life spots based on location and time. e.g. check facebook, twitter and foursquare #hastags for location you're in within a certain range of time and make suggestions from most to least popular.
+
+
+Google Doc Link
+https://docs.google.com/document/d/17IhIVaz9Wq67F3Sukh7nBrrFoNnQ5B4YgKnjFerSoV4/edit?usp=sharing
